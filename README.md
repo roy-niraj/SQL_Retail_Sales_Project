@@ -1,4 +1,4 @@
-# sql_retail_sales_project_01
+# SQL_Retail_Sales_Project
 
 Project Overview
 
